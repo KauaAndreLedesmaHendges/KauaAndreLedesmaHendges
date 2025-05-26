@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá, eu sou [Seu Nome] 👋
+Atualmente, estou no 2º ano do ensino médio e estudando dois cursos simultaneamente: um em Desenvolvimento de Sistemas Bilíngues e outro em Inglês.
 
-<!--
-**KauaAndreLedesmaHendges/KauaAndreLedesmaHendges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Sobre Mim
+🎓 Terminei o ensino fundamental e agora estou no ensino médio.
 
-Here are some ideas to get you started:
+💻 Estudo programação, principalmente com JavaScript, HTML, e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇬🇧 Meu inglês está em um nível intermediário, mas continuo praticando para melhorar mais.
+
+🧑‍💻 Estou aprendendo sobre desenvolvimento de sistemas e aprimorando minhas habilidades de programação.
+
+🚀 O que estou aprendendo agora
+JavaScript: estou aprendendo sobre funções, loops e métodos.
+
+HTML e CSS: foco em criar páginas e layouts responsivos.
+
+Inglês: continuando a melhorar minhas habilidades para poder ler e escrever melhor em inglês.
+
+🌱 Projetos e o que estou construindo
+No meu GitHub, você encontrará projetos de desenvolvimento web, como sites e aplicativos simples que estou criando enquanto aprendo.
