@@ -1,4 +1,4 @@
-Olá, eu sou [Seu Nome] 👋
+Olá, eu sou Kauã 👋
 Atualmente, estou no 2º ano do ensino médio e estudando dois cursos simultaneamente: um em Desenvolvimento de Sistemas Bilíngues e outro em Inglês.
 
 📚 Sobre Mim
